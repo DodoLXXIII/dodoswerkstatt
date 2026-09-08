@@ -1,0 +1,8 @@
+Lies bitte die lokale Konfigurationsdatei ein (config.env bzw. .env) sowie die Instruktionen aus der CLAUDE.md (bzw. AGENTS.md). 
+
+Führe als ersten Schritt bitte einen Verbindungstest durch:
+1. Prüfe, welche Server definiert sind, und lies deren Namen und Service-IDs aus.
+2. Führe einen kurzen Status-Check über die Nitrado-REST-API durch, um zu prüfen, ob der API-Token gültig ist und welcher Server aktuell online ist.
+3. Gib mir eine kurze Übersicht im Terminal aus (Servername, ID, Status, Spielerzahl) und bestätige, dass du bereit für Befehle bist. 
+
+Zeige dabei niemals sensible Zugangsdaten (Passwörter oder Tokens) im Terminal an.
